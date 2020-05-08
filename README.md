@@ -1,2 +1,4 @@
 # Mayday
-All in one emergency response system
+Emergency response system using Raspberry pi is a smart alternative to existing inefficient systems. The main goal of the project is to reduce the time to react and send a distress signal to the concerned authorities. As a complimentary result we also achieve better co-operation between concerned authorities. Any authorized person can operate the module whenever the need arises. As the system is Raspberry Pi based; after the prototype will go into mass production it will not only be very cost effective but also available easily, making it a go-to emergency response system. As Raspberry Pi is a very simple platform the maintenance cost also decreases exponentially with very less human effort required. As the system is a stand-alone system, it not only avoids the hassle of multiple servers and systems but also makes it extremely safe. The stand-alone feature also makes the device very reliable and gives it a very high success rate.
+All in all the system will provide a great advantage over the existing emergency response models in a very consumer friendly and cost effective way.
+
